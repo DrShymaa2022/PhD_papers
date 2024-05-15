@@ -2,9 +2,9 @@ This folder contains the reference archives I find to my PhD papers ( debated 20
 
 the 2 files are from rutgers DIMACS archive
 
-The PhD itself is from Faculty of Engineering Alexandria University " */* Operating on Optimal Binary Code Trees */* "
+The PhD itself is from Faculty of Engineering Alexandria University " */ Operating on Optimal Binary Code Trees /* "
 
-(Of course the */* Operating Systems */* topic is a mistake due to the word, the thesis belongs to */* Algorithms Design & Analysis */* and */* Data Structures */* )
+(Of course the ** Operating Systems ** topic is a mistake due to the word, the thesis belongs to * Algorithms Design & Analysis * and */* Data Structures */* )
 
 http://193.227.0.100/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10011669
 
