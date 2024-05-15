@@ -2,7 +2,9 @@ This folder contains the reference archives I find to my PhD papers ( debated 20
 
 the 2 files are from rutgers DIMACS archive
 
-The PhD itself is from Faculty of Engineering Alexandria University
+The PhD itself is from Faculty of Engineering Alexandria University " */* Operating on Optimal Binary Code Trees */* "
+
+(Of course the */* Operating Systems */* topic is a mistake due to the word, the thesis belongs to */* Algorithms Design & Analysis */* and */* Data Structures */* )
 
 http://193.227.0.100/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10011669
 
@@ -16,6 +18,6 @@ So, they required:
 3-A foreigner examiner (I send the full thesis by official regular mail and submit the receipt to the departement, then only when the examiner reply to the departement by a signed report qualifying the thesis to be submitted after at least 1 month reading, only then they go on with the formal procedure of setting a debate date and so on)
 
 
-Also, My master thesis link by the way
+Also, My master thesis link by the way  */* An Efficient Parallel Sample Sorting */*
 
 http://193.227.0.100/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10153838
