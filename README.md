@@ -4,11 +4,14 @@ the 2 files are from rutgers DIMACS archive
 
 The PhD itself is from Faculty of Engineering Alexandria University " */ Operating on Optimal Binary Code Trees /* "
 
-(Of course the ** Operating Systems ** topic is a mistake due to the word, the thesis belongs to * Algorithms Design & Analysis * and */* Data Structures */* )
+(Of course the */ Operating Systems /* topic is */a mistake /* due to the word, the thesis belongs to */ Algorithms Design & Analysis /* and */ Data Structures /* )
 
 http://193.227.0.100/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10011669
 
-The examiner Prof. Dr. Hesham Ali is Prof. Hesham El_Rewini as can be checked in his recomendation letter, he was a Prof. (maybe departement chairman if I remember correctly)at SMU Southern Methodist University at that time. 
+(although I once participated in supervising a master thesis about OS Scheduling later on 2007, http://www.eulc.edu.eg/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=9581512)
+
+
+Back to my PhD, the examiner Prof. Dr. Hesham Ali is Prof. Hesham El_Rewini as can be checked in his recomendation letter, he was a Prof. (maybe departement chairman if I remember correctly)at SMU Southern Methodist University at that time. 
 
 The thing is Computer Departement at Faculty of Engineering Alexandria University is the first ever founded in the middle east at 1969 (execluding Israel), and they were very cautious in giving PhD degrees without foreign interaction proof to be equivelant and comparable to international ranked universities.
 
