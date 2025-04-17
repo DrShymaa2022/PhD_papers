@@ -18,8 +18,9 @@ The thing is Computer Departement at Faculty of Engineering Alexandria Universit
 So, they required:
 1- more than > 80% score in the GRE subjective in Computer Science
 2- Publishing a number of papers in international journals and conferences that review based on full paper not just abstract
-3-A foreigner examiner (I send the full thesis by official regular mail and submit the receipt to the departement, then only when the examiner reply to the departement by a signed report qualifying the thesis to be submitted after at least 1 month reading, only then they go on with the formal procedure of setting a debate date and so on)
+3-A foreigner examiner (I send the full thesis by official regular mail and submit the receipt to the departement, then only when the examiner reply to the departement by a signed report qualifying the thesis to be submitted after at least 1 month reading, only then they go on with the formal procedure of officially informing the faculty to set a debate date and so on)
 
+A recent citation to one of the PhD papers, April 2025, appeared this year as reference [14] in (https://link.springer.com/chapter/10.1007/978-3-031-82014-4_7) and I c've contacted the authors with more details and the rest of related papers. Reference [10] too is another paper of mine.
 
 Also, My master thesis link by the way  */* An Efficient Parallel Sample Sorting */*
 
