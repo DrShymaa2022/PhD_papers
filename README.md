@@ -20,7 +20,9 @@ So, they required:
 2- Publishing a number of papers in international journals and conferences that review based on full paper not just abstract
 3-A foreigner examiner (I send the full thesis by official regular mail and submit the receipt to the departement, then only when the examiner reply to the departement by a signed report qualifying the thesis to be submitted after at least 1 month reading, only then they go on with the formal procedure of officially informing the faculty to set a debate date and so on)
 
-A recent citation to one of the PhD papers, April 2025, appeared this year as reference [14] in (https://link.springer.com/chapter/10.1007/978-3-031-82014-4_7) and I c've contacted the authors with more details and the rest of related papers. Reference [10] too is another paper of mine.
+A recent citation to one of the PhD papers, April 2025, appeared this year as reference [14] in (https://link.springer.com/chapter/10.1007/978-3-031-82014-4_7) and I've contacted the authors with more details and the rest of related papers. Reference [10] too is another paper of mine.
+Previous citations include (Operations research applications of dichotomous search
+https://www.sciencedirect.com/science/article/abs/pii/S0377221717306586) in 2018, and (A Survey on Dichotomous Search and Related Problems https://scholar.google.com.eg/scholar?cites=18058406995589033357&as_sdt=2005&sciodt=0,5&hl=en#d=gs_qabs&t=1668541054656&u=%23p%3DhyVpleJsJpEJ) in 2013
 
 Also, My master thesis link by the way  */* An Efficient Parallel Sample Sorting */*
 
