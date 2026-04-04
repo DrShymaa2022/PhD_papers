@@ -1,6 +1,9 @@
 This folder contains the reference archives I find to my PhD papers ( debated 2001, a very long time ago)
 
 the 2 papers are from rutgers DIMACS archive, 
+
+http://archive.dimacs.rutgers.edu/TechnicalReports/abstracts/1998/98-43.html
+
 http://archive.dimacs.rutgers.edu/TechnicalReports/abstracts/1999/99-22.html
 
 
