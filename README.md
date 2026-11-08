@@ -14,6 +14,7 @@ The PhD itself is from Faculty of Engineering Alexandria University " *Operating
 (Of course the *Operating Systems* topic is *a mistake* due to the word, the thesis belongs to *Algorithms Design & Analysis* and *Data Structures* )
 
 http://193.227.0.100/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10011669
+https://www.eulc.edu.eg/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10011669
 
 (although I once participated in supervising a master thesis about OS Scheduling later on 2007, http://www.eulc.edu.eg/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=9581512)
 
@@ -34,3 +35,4 @@ https://www.sciencedirect.com/science/article/abs/pii/S0377221717306586) in 2018
 Also, My master thesis link by the way  */* An Efficient Parallel Sample Sorting */*
 
 http://193.227.0.100/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10153838
+https://www.eulc.edu.eg/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=PublicDrawThesis&BibID=10153838
